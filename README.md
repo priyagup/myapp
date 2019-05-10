@@ -1,4 +1,4 @@
 # myapp
 
-Application on React
+Application on React.
 This is my lab POC
