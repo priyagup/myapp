@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./Menu.css";
 
 class Menu extends Component {
   render() {
@@ -8,10 +9,7 @@ class Menu extends Component {
         <div class="menu__right">
           <ul class="menu__list">
             <li class="menu__list-item">
-              <a
-                class="menu__link menu__link--active"
-                href="./components/Home.js"
-              >
+              <a class="menu__link menu__link--active" href="#">
                 Home
               </a>
             </li>

@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-
+import "./Home.css";
 class Home extends Component {
   render() {
-    return <div>List of Groups</div>;
+    return <div class="topic-list">List of Groups</div>;
   }
 }
 
